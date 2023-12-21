@@ -4,9 +4,8 @@ This repository will contain resources related to the paper: _"Let’s Get It St
 
 This work has been accepted for presentation as an "Industry Talk" at the 46th European Conference on Information Retrieval  ([ECIR 2024](https://www.ecir2024.org/)) in Glasgow.
 
-<br>
 <p align="center">
-  <img height="200" src="figures/ecir.png">
+  <img height="100" src="figures/ecir.png">
 </p>
 
 
@@ -19,9 +18,8 @@ of new talents. Nonetheless, displaying the right releases to the right users re
 
 In this paper, we present our recent efforts to better showcase new releases on Deezer, both in terms of recommendation performance and number of new releases exposed to users. Specifically, we first focus on the product context. We describe in Section 2 our search and recommendation features dedicated to new releases, along with their objectives and differences. We also dive into our historical semi-personalized solution for new release recommendation, based on editorial pre-selections, and its limitations in terms of catalog coverage and adaptability. Then, in Section 3, we detail the fully personalized systems we deployed in 2023 to overcome these limitations, involving a cold start neural embedding model along with contextual bandits. We provide an online evaluation of our approach on Deezer's _"New releases for you"_ carousel of recommended new albums. Finally, we conclude in Section 4 by discussing our ongoing efforts to improve our models and how we present new releases on the Deezer homepage.
 
-<br>
 <p align="center">
-  <img height="550" src="figures/carousel.png">
+  <img height="250" src="figures/carousel.png">
 </p>
 
 
