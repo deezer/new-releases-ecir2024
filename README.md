@@ -5,7 +5,7 @@ This repository will contain resources related to the paper: _"Let’s Get It St
 This work has been accepted for presentation as an "Industry Talk" at the 46th European Conference on Information Retrieval  ([ECIR 2024](https://www.ecir2024.org/)) in Glasgow.
 
 <p align="center">
-  <img height="100" src="figures/ecir.png">
+  <img height="150" src="figures/ecir.png">
 </p>
 
 
