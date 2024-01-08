@@ -25,7 +25,7 @@ In this paper, we present our recent efforts to better showcase new releases on 
 
 ## Paper
 
-_Soon._
+The paper is publicly available [on arXiv](https://arxiv.org/pdf/2401.02827.pdf).
 
 ## Slides
 
@@ -40,7 +40,7 @@ _Soon._
 ```BibTeX
 @inproceedings{briand2024fostering,
   title={Let's Get It Started: Fostering the Discoverability of New Releases on Deezer},
-  author={Briand, L{\'e}a and Bontempelli, Th{\'e}o and Bendada, Walid and Morlon, Mathieu and Rigaud, Fran{\c{c}}ois and Chapus, Benjamin and Bouab{\c{c}}a, Thomas and Salha-Galvan, Guillaume}
+  author={Briand, L{\'e}a and Bontempelli, Th{\'e}o and Bendada, Walid and Morlon, Mathieu and Rigaud, Fran{\c{c}}ois and Chapus, Benjamin and Bouab{\c{c}}a, Thomas and Salha-Galvan, Guillaume},
   booktitle={Proceedings of the 46th European Conference on Information Retrieval},
   year={2024}
 }
