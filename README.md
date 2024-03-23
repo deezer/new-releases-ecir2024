@@ -29,7 +29,7 @@ The paper is publicly available [on arXiv](https://arxiv.org/pdf/2401.02827.pdf)
 
 ## Slides
 
-Slides from the oral presentation are publily available [here](https://github.com/deezer/new-releases-ecir2024/blob/main/slides/briand_ecir2024.pdf).
+Slides from the oral presentation are publicly available [here](https://github.com/deezer/new-releases-ecir2024/blob/main/slides/briand_ecir2024.pdf).
 
 <p align="center">
   <img height="300" src="figures/cover.png">
